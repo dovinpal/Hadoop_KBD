@@ -1,4 +1,4 @@
-##Knowbigdata.com
+#Knowbigdata.com
 
 #!/usr/bin/python
 import fileinput
